@@ -1,12 +1,23 @@
 <div align="center">
 
-# 🛡️ ORBII
+#  ORBII
 
 ### Your safety. Always with you.
 
 **A women's safety platform for India: hands-free Voice SOS that works on a locked phone, offline. Live location to your family circle. Verified responders nearby.**
 
-[Website](https://orbii.in) · [Download APK](https://orbii.in/#download) · [Privacy Policy](https://orbii.in/privacy-policy)
+[Website](https://orbii.in).
+
+<img width="1920" height="8537" alt="image" src="https://github.com/user-attachments/assets/7c517e3d-ed4a-43d0-b1d6-a5023b989009" />
+
+[Download APK](https://orbii.in/#download) ·
+
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/b7fb9128-a4af-42e8-b82e-1d46af233688" />
+
+[Privacy Policy](https://orbii.in/privacy-policy)
+
+<img width="1920" height="6082" alt="image" src="https://github.com/user-attachments/assets/9872267b-4034-4922-86db-09e65862ba1a" />
+
 
 > 🔒 This is the public showcase of ORBII. The application source code is proprietary and lives in a private repository. This repo documents what ORBII is, how it works, and how it is built.
 
@@ -33,13 +44,13 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 
 ```mermaid
 flowchart LR
-    subgraph Phone["📱 ORBII app (React Native + native Kotlin)"]
+    subgraph Phone[" ORBII app (React Native + native Kotlin)"]
         UI["React Native UI<br/>(SOS, map, circles, missions)"]
         VG["VoiceGuard foreground service<br/>(Kotlin + on-device speech models)<br/>offline wake-phrase detection"]
         VG -- "trigger over lock screen" --> UI
     end
 
-    subgraph Cloud["☁️ Backend (managed, serverless)"]
+    subgraph Cloud[" Backend (managed, serverless)"]
         AUTH["Auth<br/>(Google Sign-In)"]
         DB["Postgres<br/>row-level security on every table"]
         RT["Realtime channels<br/>(alerts + presence)"]
@@ -47,7 +58,7 @@ flowchart LR
         FN["Edge functions<br/>(push fan-out, payment verification)"]
     end
 
-    subgraph Receivers["🆘 When an SOS fires"]
+    subgraph Receivers[" When an SOS fires"]
         CIRCLE["Family circle<br/>full-screen alert + live map"]
         RESP["Verified responders<br/>(Premium users only)"]
         ADMIN["Founder admin portal<br/>(KYC review, payouts, live ops)"]
@@ -85,15 +96,11 @@ flowchart LR
 
 ## Status & roadmap
 
-- ✅ Feature-complete MVP, release-signed builds, Play Store closed-testing package ready
-- ✅ Campus pilot program prepared (verified campus responders + admin dashboard)
-- 🔜 Walk-with-me AI companion and AI fake call
-- 🔜 On-device distress-sound recognition (scream / glass-break detection)
-- 🔜 Live SOS web link: family tracks an emergency in the browser, no install needed
+- TESTING V2.2.002
 
 ## Author
 
-Built by **Jatin Kumar**, founder of ORBII.
+Built by **Jatin **, founder of ORBII.
 
 📫 jaykumar2470f@gmail.com · 🌐 [orbii.in](https://orbii.in)
 

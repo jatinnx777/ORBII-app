@@ -8,7 +8,8 @@
 
 [Website](https://orbii.in).
 
-<img width="1920" height="8537" alt="image" src="https://github.com/user-attachments/assets/7c517e3d-ed4a-43d0-b1d6-a5023b989009" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/d8231b8b-0c95-4b55-a750-761c2555a18d" />
+
 
 [Download APK](https://orbii.in/#download) ·
 

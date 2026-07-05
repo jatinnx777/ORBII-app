@@ -4,10 +4,21 @@
 
 ### Your safety. Always with you.
 
-<img width="512" height="480" alt="image" src="https://github.com/user-attachments/assets/df8615d7-96fd-4b6c-a5bf-2cc9cd7716a1" />
+<img width="420" height="350" alt="image" src="https://github.com/user-attachments/assets/df8615d7-96fd-4b6c-a5bf-2cc9cd7716a1" />
 
 
 **A women's safety platform for India: hands-free Voice SOS that works on a locked phone, offline. Live location to your family circle. Verified responders nearby.**
+
+| Step | Traditional Response | ORBII |
+|------|----------------------|--------|
+| Unlock phone | 5–10 sec | Not required (Voice SOS) |
+| Open emergency app | 5–15 sec | Automatic |
+| Call someone | 15–30 sec | Automatic |
+| Share live location | Manual | Instant |
+| Notify emergency contacts | One by one | All at once |
+| Start evidence recording | Manual | Automatic |
+| Nearby helpers alerted | Usually unavailable | Instant (when available) |
+| Total time to start response | 30–60+ sec | 1–3 sec |
 
 [Website](https://orbii.in).
 

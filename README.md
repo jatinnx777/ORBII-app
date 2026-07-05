@@ -46,6 +46,8 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 
 ## Architecture
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1801c7bb-25b9-4bf0-9468-0970553c2308" />
+
 
 **Design rule: alert people first, save the record second.** The realtime broadcast fires in well under a second; the database write happens in parallel so a slow network never delays help.
 
@@ -58,13 +60,6 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 - **A real operations portal** at a private URL: live user/revenue/SOS stats, application review with document viewing, earnings ledger and payout management, all locked to the founder's account server-side.
 - **Cost engineering.** Maps (open vector tiles), speech (on-device), auth (OAuth), push (FCM): every traditionally expensive component chosen deliberately so infrastructure cost stays near zero deep into five figures of users.
 
-## Screenshots
-
-<!-- Drop device screenshots into /screenshots and update these paths. -->
-
-| Onboarding | Home | SOS countdown | Live response map |
-|---|---|---|---|
-| ![Onboarding](screenshots/onboarding.png) | ![Home](screenshots/home.png) | ![Countdown](screenshots/countdown.png) | ![Map](screenshots/map.png) |
 
 ## Tech stack
 

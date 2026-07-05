@@ -96,19 +96,53 @@ Average SOS Time
 
 
 ## APP SCREENSHOTS
-###ONBOARDING
-<img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/455bee6e-be1a-481d-90b6-6954df6da27c" /> <img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/8b56d667-d304-473a-b671-8ebb244a295d" /> <img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/cf9aa190-8848-431f-b142-2b759c78e13d" />
+## 📱 App Screenshots
 
+### Onboarding
 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/455bee6e-be1a-481d-90b6-6954df6da27c" width="220">
+</td>
 
-### HOME-PAGE
-<img width="496" height="1280" alt="image" src="https://github.com/user-attachments/assets/ab5593bf-5cc8-46c5-9f10-6a928ff552d2" />
-### VOICE SOS SETUP
-<img width="495" height="1280" alt="image" src="https://github.com/user-attachments/assets/d7290121-c84b-4e97-9144-73e8e7459323" />
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8b56d667-d304-473a-b671-8ebb244a295d" width="220">
+</td>
 
-<img width="481" height="1280" alt="image" src="https://github.com/user-attachments/assets/27067b93-3094-48d9-9b52-71c7e4f5de1d" />
+<td align="center">
+<img src="https://github.com/user-attachments/assets/cf9aa190-8848-431f-b142-2b759c78e13d" width="220">
+</td>
+</tr>
+</table>
 
+---
 
+### Home
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/ab5593bf-5cc8-46c5-9f10-6a928ff552d2" width="220">
+</td>
+</tr>
+</table>
+
+---
+
+### Voice SOS Setup
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d7290121-c84b-4e97-9144-73e8e7459323" width="220">
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/27067b93-3094-48d9-9b52-71c7e4f5de1d" width="220">
+</td>
+</tr>
+</table>
 
 
 

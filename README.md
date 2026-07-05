@@ -4,7 +4,7 @@
 
 ### Your safety. Always with you.
 
-<img width="1004" height="984" alt="image" src="https://github.com/user-attachments/assets/df8615d7-96fd-4b6c-a5bf-2cc9cd7716a1" />
+<img width="512" height="480" alt="image" src="https://github.com/user-attachments/assets/df8615d7-96fd-4b6c-a5bf-2cc9cd7716a1" />
 
 
 **A women's safety platform for India: hands-free Voice SOS that works on a locked phone, offline. Live location to your family circle. Verified responders nearby.**
@@ -20,7 +20,9 @@
 
 [Privacy Policy](https://orbii.in/privacy-policy)
 
-<img width="1920" height="6082" alt="image" src="https://github.com/user-attachments/assets/9872267b-4034-4922-86db-09e65862ba1a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc2a7728-efbe-4969-ad49-a8212aab2f4e" />
+
+
 
 
 > 🔒 This is the public showcase of ORBII. The application source code is proprietary and lives in a private repository. This repo documents what ORBII is, how it works, and how it is built.
@@ -44,7 +46,7 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 | 🚶 | **Safe Journey** | Share a trip with your circle; going silent or off-route escalates automatically. |
 | 👑 | **Guardian recognition** | Responders earn trust scores, Bronze → Elite guardian levels, and rewards, not per-rescue bounties (which attract the wrong people). |
 
-##METRICES 
+## METRICES 
 
 Offline Detection
 <300ms
@@ -89,6 +91,15 @@ Average SOS Time
 Built by **Jatin **, founder of ORBII.
 
 📫 jaykumar2470f@gmail.com · 🌐 [orbii.in](https://orbii.in)
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Built with ❤️ in India
+
+If you find ORBII interesting,
+consider starring the repository.
+
+⭐
 
 ---
 

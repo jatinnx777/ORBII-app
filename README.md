@@ -93,6 +93,27 @@ Average SOS Time
 
 `React Native (Expo)` · `TypeScript` · `Kotlin` (voice foreground service) · `On-device speech recognition (EN + HI, bundled)` · `Postgres + row-level security` · `Realtime channels` · `Serverless edge functions` · `MapLibre + open vector tiles` · `FCM push` · `Astro` (website + admin portal)
 
+
+
+## APP SCREENSHOTS
+###ONBOARDING
+<img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/455bee6e-be1a-481d-90b6-6954df6da27c" /> <img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/8b56d667-d304-473a-b671-8ebb244a295d" /> <img width="500" height="1115" alt="image" src="https://github.com/user-attachments/assets/cf9aa190-8848-431f-b142-2b759c78e13d" />
+
+
+
+### HOME-PAGE
+<img width="496" height="1280" alt="image" src="https://github.com/user-attachments/assets/ab5593bf-5cc8-46c5-9f10-6a928ff552d2" />
+### VOICE SOS SETUP
+<img width="495" height="1280" alt="image" src="https://github.com/user-attachments/assets/d7290121-c84b-4e97-9144-73e8e7459323" />
+
+<img width="481" height="1280" alt="image" src="https://github.com/user-attachments/assets/27067b93-3094-48d9-9b52-71c7e4f5de1d" />
+
+
+
+
+
+
+
 ## Status & roadmap
 
 - TESTING V2.2.002

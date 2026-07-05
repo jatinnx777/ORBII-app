@@ -44,6 +44,21 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 | 🚶 | **Safe Journey** | Share a trip with your circle; going silent or off-route escalates automatically. |
 | 👑 | **Guardian recognition** | Responders earn trust scores, Bronze → Elite guardian levels, and rewards, not per-rescue bounties (which attract the wrong people). |
 
+##METRICES 
+
+Offline Detection
+<300ms
+
+Supported Languages
+3
+
+Max Battery Drain ( per hour in background )
+<1.5%
+
+Average SOS Time
+1.3s
+
+
 ## Architecture
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1801c7bb-25b9-4bf0-9468-0970553c2308" />

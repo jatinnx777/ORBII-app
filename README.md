@@ -4,7 +4,8 @@
 
 ### Your safety. Always with you.
 
-<img width="420" height="350" alt="image" src="https://github.com/user-attachments/assets/df8615d7-96fd-4b6c-a5bf-2cc9cd7716a1" />
+<img width="420" height="320" alt="orbii-logo (2)" src="https://github.com/user-attachments/assets/2f94cbca-43a8-421f-9ce7-7e2bff227c00" />
+
 
 
 **A women's safety platform for India: hands-free Voice SOS that works on a locked phone, offline. Live location to your family circle. Verified responders nearby.**

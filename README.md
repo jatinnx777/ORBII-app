@@ -4,7 +4,7 @@
 
 ### Your safety. Always with you.
 
-<img width="420" height="320" alt="orbii-logo (2)" src="https://github.com/user-attachments/assets/2f94cbca-43a8-421f-9ce7-7e2bff227c00" />
+<img width="420" height="420" alt="orbii-logo (2)" src="https://github.com/user-attachments/assets/2f94cbca-43a8-421f-9ce7-7e2bff227c00" />
 
 
 

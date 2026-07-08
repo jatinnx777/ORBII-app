@@ -23,7 +23,7 @@
 
 [Website](https://orbii.in).
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/d8231b8b-0c95-4b55-a750-761c2555a18d" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/94d3efc6-4bf1-4017-aa86-2a1713b27c86" />
 
 
 [Download APK](https://orbii.in/#download) ·

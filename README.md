@@ -27,16 +27,23 @@ The only app in India that combines a **hands-free voice trigger**, an **offline
 
 [Website](https://orbii.in).
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/94d3efc6-4bf1-4017-aa86-2a1713b27c86" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/55aa5721-1b0d-4fac-8322-033760775daf" />
 
 
 [Download APK](https://orbii.in/#download) ·
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/a1e40262-7e7d-4b7e-b509-678c0e4fc400" />
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/b7fb9128-a4af-42e8-b82e-1d46af233688" />
+
 
 [Privacy Policy](https://orbii.in/privacy-policy)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc2a7728-efbe-4969-ad49-a8212aab2f4e" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/e801e3dc-3374-49b7-9a87-58a0e240a8ac" />
+
+
+[FEATURES](https://www.orbii.in/features)
+
+<img width="1920" height="3954" alt="image" src="https://github.com/user-attachments/assets/4cc2ec34-0ac1-4c0c-9c42-cff454c90997" />
+
 
 
 
@@ -55,14 +62,14 @@ When a woman is in danger in India, she usually cannot open an app, unlock a pho
 
 | | Feature | How it works |
 |---|---|---|
-| 🎙️ | **Voice SOS, fully offline** | She says her distress phrase ("help help", "bachao", "madad") and the SOS fires, even with the phone **locked**, even with **no internet**. Speech recognition runs entirely on the device with bundled English + Hindi models. Audio never leaves the phone. |
-| 📡 | **Offline mesh relay** | No signal at all? The alert hops phone to phone over encrypted Bluetooth to any ORBII nearby, until it reaches one that still has a connection. A relaying phone carries the SOS but can never read it. (Built, in field testing.) |
-| 📍 | **Instant circle alerts** | Her live location streams to her family circle in under a second over a realtime channel, with push notifications reaching phones whose app is closed. |
-| 🗺️ | **Circle map + geofencing** | See the people you chose on a live map, and see exactly who can see you. Draw a safe zone: if someone you love leaves it, your circle is told, with the time and the place. Consent-first, the fenced person is notified and can decline. |
-| 🧑‍🤝‍🧑 | **Verified responders (Premium)** | KYC-verified helpers nearby are dispatched to Premium users, matched by proximity, trust and reliability, with automatic no-show recovery that reassigns a backup. Every responder uploads government ID and a selfie, and is manually reviewed and approved before they can ever go online. |
-| 🚨 | **5-second cancellable countdown** | Accidental triggers cost nothing. Real ones dispatch alerts, start incident audio recording (including the seconds before she spoke), and open a live response map. |
-| 🚶 | **Safe Journey** | Share a trip with your circle; going silent or off-route escalates automatically. |
-| 👑 | **Guardian recognition** | Responders earn trust scores, Bronze → Elite guardian levels, and rewards, not per-rescue bounties (which attract the wrong people). |
+|  | **Voice SOS, fully offline** | She says her distress phrase ("help help", "bachao", "madad") and the SOS fires, even with the phone **locked**, even with **no internet**. Speech recognition runs entirely on the device with bundled English + Hindi models. Audio never leaves the phone. |
+|  | **Offline mesh relay** | No signal at all? The alert hops phone to phone over encrypted Bluetooth to any ORBII nearby, until it reaches one that still has a connection. A relaying phone carries the SOS but can never read it. (Built, in field testing.) |
+|  | **Instant circle alerts** | Her live location streams to her family circle in under a second over a realtime channel, with push notifications reaching phones whose app is closed. |
+|  | **Circle map + geofencing** | See the people you chose on a live map, and see exactly who can see you. Draw a safe zone: if someone you love leaves it, your circle is told, with the time and the place. Consent-first, the fenced person is notified and can decline. |
+|  | **Verified responders (Premium)** | KYC-verified helpers nearby are dispatched to Premium users, matched by proximity, trust and reliability, with automatic no-show recovery that reassigns a backup. Every responder uploads government ID and a selfie, and is manually reviewed and approved before they can ever go online. |
+|  | **5-second cancellable countdown** | Accidental triggers cost nothing. Real ones dispatch alerts, start incident audio recording (including the seconds before she spoke), and open a live response map. |
+|  | **Safe Journey** | Share a trip with your circle; going silent or off-route escalates automatically. |
+|  | **Guardian recognition** | Responders earn trust scores, Bronze → Elite guardian levels, and rewards, not per-rescue bounties (which attract the wrong people). |
 
 ## Performance targets
 
@@ -98,56 +105,6 @@ Measured in our own testing, not independently audited yet.
 
 `React Native (Expo)` · `TypeScript` · `Kotlin` (voice + Bluetooth-mesh foreground services) · `On-device speech recognition (EN + HI, bundled)` · `Postgres + row-level security` · `Realtime channels` · `Serverless edge functions` · `PostGIS + pg_cron` · `MapLibre + open vector tiles` · `FCM push` · `Astro` (website + admin portal)
 
-
-
-## APP SCREENSHOTS
-## 📱 App Screenshots
-
-### Onboarding
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/455bee6e-be1a-481d-90b6-6954df6da27c" width="220">
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/8b56d667-d304-473a-b671-8ebb244a295d" width="220">
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/cf9aa190-8848-431f-b142-2b759c78e13d" width="220">
-</td>
-</tr>
-</table>
-
----
-
-### Home
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/ab5593bf-5cc8-46c5-9f10-6a928ff552d2" width="220">
-</td>
-</tr>
-</table>
-
----
-
-### Voice SOS Setup
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/d7290121-c84b-4e97-9144-73e8e7459323" width="220">
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/27067b93-3094-48d9-9b52-71c7e4f5de1d" width="220">
-</td>
-</tr>
-</table>
 
 
 

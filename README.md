@@ -1,54 +1,23 @@
 <div align="center">
 
-#  ORBII
+# ORBII
 
-### Your safety. Always with you.
+### Help should arrive before panic does.
 
 <img width="200" height="200" alt="ORBII logo" src="./logo.png" />
 
+**Safety for India's workforce and for everyone in it.**
+ORBII Teams keeps employees, field staff and students safe at work and on the move.
+The ORBII app gives anyone a hands-free SOS that works on a locked phone, even with no internet.
 
+[Website](https://www.orbii.in) ·
+[ORBII Teams](https://www.orbii.in/orbii-teams) ·
+[Get it on Google Play](https://play.google.com/store/apps/details?id=in.orbii.app) ·
+[Trust and data](https://www.orbii.in/trust) ·
+[Privacy policy](https://www.orbii.in/privacy-policy)
 
-**A women's safety platform for India: hands-free Voice SOS that works on a locked phone, offline. Live location to your family circle. Verified responders nearby.**
-
-> *Help should arrive before panic does.*
-
-The only app in India that combines a **hands-free voice trigger**, an **offline mesh relay**, and a **verified human responder network**, and the only one building responder density campus by campus, on real dispatches rather than downloads.
-
-| Step | Traditional Response | ORBII |
-|------|----------------------|--------|
-| Unlock phone | 5–10 sec | Not required (Voice SOS) |
-| Open emergency app | 5–15 sec | Automatic |
-| Call someone | 15–30 sec | Automatic |
-| Share live location | Manual | Instant |
-| Notify emergency contacts | One by one | All at once |
-| Start evidence recording | Manual | Automatic |
-| Nearby helpers alerted | Usually unavailable | Instant (when available) |
-| Total time to start response | 30–60+ sec | 1–3 sec |
-
-[Website](https://orbii.in).
-
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/55aa5721-1b0d-4fac-8322-033760775daf" />
-
-
-[Download APK](https://orbii.in/#download) ·
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/a1e40262-7e7d-4b7e-b509-678c0e4fc400" />
-
-
-
-[Privacy Policy](https://orbii.in/privacy-policy)
-
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/e801e3dc-3374-49b7-9a87-58a0e240a8ac" />
-
-
-[FEATURES](https://www.orbii.in/features)
-
-<img width="1920" height="3954" alt="image" src="https://github.com/user-attachments/assets/4cc2ec34-0ac1-4c0c-9c42-cff454c90997" />
-
-
-
-
-
-> 🔒 This is the public showcase of ORBII. The application source code is proprietary and lives in a private repository. This repo documents what ORBII is, how it works, and how it is built.
+> This is the public showcase of ORBII, built by ORBII Private Limited in India.
+> The source code is proprietary and lives in a private repository.
 
 </div>
 
@@ -56,83 +25,58 @@ The only app in India that combines a **hands-free voice trigger**, an **offline
 
 ## The problem
 
-When a woman is in danger in India, she usually cannot open an app, unlock a phone, or type a message. Existing SOS apps assume she can. ORBII assumes she can only do one thing: **shout**.
+When someone is in danger they usually cannot unlock a phone, find an app and type. A technician alone at a site, a sales visit in a new area, a late cab home: the alert has to work hands-free, on a bad network, and it has to reach a person who acts on it. Most safety tools assume a free hand, a signal and someone watching a screen.
 
-## What ORBII does
+## ORBII Teams: for companies and campuses
 
-| | Feature | How it works |
-|---|---|---|
-|  | **Voice SOS, fully offline** | She says her distress phrase ("help help", "bachao", "madad") and the SOS fires, even with the phone **locked**, even with **no internet**. Speech recognition runs entirely on the device with bundled English + Hindi models. Audio never leaves the phone. |
-|  | **Offline mesh relay** | No signal at all? The alert hops phone to phone over encrypted Bluetooth to any ORBII nearby, until it reaches one that still has a connection. A relaying phone carries the SOS but can never read it. (Built, in field testing.) |
-|  | **Instant circle alerts** | Her live location streams to her family circle in under a second over a realtime channel, with push notifications reaching phones whose app is closed. |
-|  | **Circle map + geofencing** | See the people you chose on a live map, and see exactly who can see you. Draw a safe zone: if someone you love leaves it, your circle is told, with the time and the place. Consent-first, the fenced person is notified and can decline. |
-|  | **Verified responders (Premium)** | KYC-verified helpers nearby are dispatched to Premium users, matched by proximity, trust and reliability, with automatic no-show recovery that reassigns a backup. Every responder uploads government ID and a selfie, and is manually reviewed and approved before they can ever go online. |
-|  | **5-second cancellable countdown** | Accidental triggers cost nothing. Real ones dispatch alerts, start incident audio recording (including the seconds before she spoke), and open a live response map. |
-|  | **Safe Journey** | Share a trip with your circle; going silent or off-route escalates automatically. |
-|  | **Guardian recognition** | Responders earn trust scores, Bronze → Elite guardian levels, and rewards, not per-rescue bounties (which attract the wrong people). |
+Everyone on the plan gets the ORBII app. HR and the Safety Desk get a live web console.
 
-## Performance targets
-
-Measured in our own testing, not independently audited yet.
-
-| Metric | Target |
+| | What it does |
 |---|---|
-| Offline trigger detection | < 300 ms |
-| Average time to start a response | ~ 1.3 s |
-| Supported languages | 3 (English, Hindi, custom phrase) |
-| Background battery drain | < 1.5% per hour |
+| **SOS that works anywhere** | Voice, button, fall or shake. Recognised on the phone, so it works with the screen locked and no internet, and falls back to SMS. |
+| **Work trips** | A destination and a back-by time. Late? The person is asked first, then the Safety Desk is alerted. |
+| **Site check-in** | Automatic check-in and check-out at company sites during a trip. |
+| **Escalation ladder** | If nobody takes an alert: the reporting manager, then the HOD, then the desk, each after a set time. |
+| **Proof every alert reached a person** | Each alert is timed from the moment it fires to the first person who opened or took it, with a report a company can share. |
+| **Prevention before the trip** | A risk check on every trip (night travel, long drives, official warnings, severe weather), an optional safety checklist, and manager approval for high-risk trips. Safety never waits on a manager: an employee can always go, with a reason. |
+| **Official warnings** | Indian disaster and weather warnings matched to the people and sites inside them, and "Are you safe?" sent only to those people. |
+| **Problem reports** | Report a hazard with a photo or a voice note, even with no signal. It gets an owner and a date, and the reporter is told when it is fixed. |
+| **A score per site, never per person** | Each location gets a safety score with what lowered it and what to do. |
+| **Night-commute record** | Night-work consent, the cab and driver, and a guard in the cab, kept per commute. |
+| **A change log nobody can edit** | Every action is recorded with a fingerprint chain, so any change to the history shows. |
 
+**What the company never sees:** location outside a trip or an SOS, health information, personal circles or messages. ORBII enforces this on the server, and every person can see who looked at their location.
 
-## Architecture
+## The ORBII app: for everyone
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1801c7bb-25b9-4bf0-9468-0970553c2308" />
+- **Hands-free Voice SOS** in English and Hindi. Say it twice and ORBII raises the alarm, even with the phone locked. Audio never leaves the phone.
+- **Fall detection** with a countdown to cancel.
+- **Your circle**: family who get your SOS with your live location.
+- **Safe Journey, Safe Routes and Audio Escort** for the walk home.
+- **Medical priority**: a serious condition makes the SOS faster and tells helpers what they need to know.
+- **When the network fails**: SMS fallback and a Bluetooth relay between phones (in field testing).
 
+## How it is built
 
-**Design rule: alert people first, save the record second.** The realtime broadcast fires in well under a second; the database write happens in parallel so a slow network never delays help.
+- **On the phone:** React Native (Expo) and TypeScript, with native Kotlin services for voice and motion on Android, and Swift on iPhone (in development).
+- **On the server:** Postgres with row-level security, realtime channels, serverless functions and scheduled jobs.
+- **The console and website:** Astro.
+- **Maps:** MapLibre with open vector tiles.
 
-## Engineering highlights
+Design rules we keep:
 
-- **Offline speech on a locked phone.** A native Android foreground service runs bundled speech models on-device. No speech API, no per-use cost, no audio upload. Includes voice-activity gating for battery, smart auto-gain for muffled audio (pocket, purse), strict whole-word matching to prevent false triggers, and cross-utterance repeat detection so a panicked "help ... help" with a pause still fires.
-- **Survives phone-killers.** Aggressive OEM battery managers (Xiaomi, Realme, Oppo, Vivo) silently kill background apps. The listening service writes a heartbeat; if the OS kills it, ORBII detects the stale beat the next time you open the app, re-arms protection, and walks you through the exact per-device settings that keep it alive.
-- **Offline mesh relay.** When there is no network at all, the SOS is sealed end to end and relayed phone to phone over Bluetooth, so an alert can escape even a full connectivity blackout.
-- **Privacy enforced by the database, not the UI.** Every table carries row-level security: users can only read their own data. A victim's live location is served only to people near her, only during an active emergency, and free-tier users' locations are never visible to strangers at all.
-- **Tiered dispatch.** Free users' SOS reaches their own circle only. Premium unlocks the verified-responder network. The gate is enforced in three independent layers (realtime, query, and client), so it cannot be bypassed.
-- **A real operations portal** at a private URL: live user/revenue/SOS stats, application review with document viewing, earnings ledger and payout management, all locked to the founder's account server-side.
-- **Cost engineering.** Maps (open vector tiles), speech (on-device), auth (OAuth), push (FCM): every traditionally expensive component chosen deliberately so infrastructure cost stays near zero deep into five figures of users.
+- **Alert people first, save the record second.** A slow network never delays help.
+- **Score places, routes and times, never people.** Nothing ORBII collects is used for performance or discipline.
+- **Every change is tested, then attacked** with rolled-back security checks before it ships.
 
+## Status
 
-## Tech stack
+- **Live:** the ORBII app on Google Play (Android), and ORBII Teams with its web console at [orbii.in/teams](https://www.orbii.in/teams).
+- **In field testing:** the Bluetooth relay and the verified-responder network.
+- **In development:** the iPhone app.
 
-`React Native (Expo)` · `TypeScript` · `Kotlin` (voice + Bluetooth-mesh foreground services) · `On-device speech recognition (EN + HI, bundled)` · `Postgres + row-level security` · `Realtime channels` · `Serverless edge functions` · `PostGIS + pg_cron` · `MapLibre + open vector tiles` · `FCM push` · `Astro` (website + admin portal)
+We say plainly what is proven and what is still in testing. Speed and battery figures in our materials are from our own testing, not an independent audit.
 
+## Contact
 
-
-
-
-## Status & roadmap
-
-- **Now:** Android (arm64), in closed testing and applied for Google Play production.
-- **Live today:** hands-free Voice SOS (on-device, EN + HI), circle alerts, live map, geofencing, evidence recording.
-- **In field testing:** the offline layer (SMS lifeline + Bluetooth mesh relay) and the verified-responder pilot.
-- **Next:** a verified-responder pilot on campus (proving a real person actually comes), then a wider Android rollout. iOS is planned for a later version.
-
-We say plainly what is proven and what is still in testing.
-
-## Author
-
-Built by **Jatin**, founder of ORBII, with **Vishnu** (on-device voice ML).
-
-📫 jaykumar2470f@gmail.com · 🌐 [orbii.in](https://orbii.in)
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-Built with ❤️ in India
-
-If you find ORBII interesting,
-consider starring the repository.
-
-⭐
-
----
-
-<sub>© 2026 ORBII. All rights reserved. This repository contains documentation only; the ORBII source code, models configuration, and infrastructure are proprietary.</sub>
+Companies and universities: [orbii.in/orbii-teams](https://www.orbii.in/orbii-teams) · orbiisafety@gmail.com
